@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "title": "Membangun Nilai\nDigital.",
+    "subtitle": "Saya membangun website dan aplikasi portofolio yang menarik, modern & minimalis.",
+    "bgImg": "/uploads/1783479458121-335587950.jpeg"
+  },
+  "about": {
+    "name": "Aditya Wirayudha",
+    "dob": "15 Agustus 2001",
+    "location": "Jakarta, Indonesia",
+    "email": "halo@wira.works",
+    "description": "Saya adalah seorang Software Engineer yang berdedikasi tinggi dalam menciptakan solusi digital yang efisien dan estetis. Dengan pengalaman di berbagai proyek web dan aplikasi mobile, saya selalu berusaha memberikan nilai terbaik bagi pengguna.",
+    "img": "/uploads/1783479594392-474030862.jpg"
+  },
+  "experience": [
+    {
+      "id": 1,
+      "type": "Pekerjaan",
+      "date": "2023 - Sekarang",
+      "title": "Fullstack Web Developer",
+      "company": "Tech Solutions Indonesia",
+      "desc": [
+        "Merancang dan mengembangkan aplikasi web berskala besar menggunakan React dan Node.js.",
+        "Berkolaborasi dengan tim desain UI/UX untuk menciptakan pengalaman pengguna yang optimal."
+      ],
+      "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "type": "Pendidikan",
+      "date": "2019 - 2023",
+      "title": "S1 Teknik Informatika",
+      "company": "Universitas Indonesia",
+      "desc": [
+        "Lulus dengan predikat Cum Laude (IPK 3.85).",
+        "Aktif di organisasi himpunan mahasiswa dan memimpin proyek akhir pengembangan aplikasi mobile berbasis AI."
+      ],
+      "img": "/uploads/1783479822481-447393656.jpg"
+    },
+    {
+      "id": 3,
+      "type": "Pekerjaan",
+      "date": "2022 - 2023",
+      "title": "Mobile App Developer Intern",
+      "company": "Startup Digital",
+      "desc": [
+        "Membantu pengembangan aplikasi e-commerce menggunakan Flutter.",
+        "Mengintegrasikan API pembayaran dan sistem notifikasi real-time."
+      ],
+      "img": ""
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Sistem Manajemen Rumah Sakit",
+      "desc": "Aplikasi web komprehensif untuk mengelola data pasien dan apotek.",
+      "category": "Web",
+      "img": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Aplikasi Belajar Online",
+      "desc": "Platform e-learning berbasis mobile dengan fitur video streaming.",
+      "category": "Mobile",
+      "img": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Katalog UMKM Nusantara",
+      "desc": "Direktori digital untuk mempromosikan produk lokal Indonesia.",
+      "category": "Web",
+      "img": "https://images.unsplash.com/photo-1556761175-5973dc0f32b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Dashboard Keuangan",
+      "desc": "Antarmuka analitik data interaktif untuk memonitor metrik bisnis perusahaan.",
+      "category": "Desain",
+      "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Aplikasi Reservasi Hotel",
+      "desc": "Solusi pemesanan kamar hotel lengkap dengan integrasi gateway pembayaran.",
+      "category": "Mobile",
+      "img": "https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Smart Home Controller",
+      "desc": "Desain UI/UX dan aplikasi untuk mengontrol perangkat rumah pintar (IoT).",
+      "category": "Desain",
+      "img": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "/uploads/1783480618703-166937948.jpg"
+  ]
+}
