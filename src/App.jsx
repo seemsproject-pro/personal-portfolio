@@ -7,7 +7,7 @@ import { DataProvider } from './context/DataContext';
 function App() {
   return (
     <DataProvider>
-      <Router>
+      <Router basename="/personal-portfolio">
         <Routes>
           <Route path="/" element={<Portfolio />} />
           <Route path="/admin" element={<Admin />} />
